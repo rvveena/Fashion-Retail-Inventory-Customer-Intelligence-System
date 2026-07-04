@@ -33,5 +33,5 @@ Before running analytical scripts, a strict multi-stage data validation logic wa
 
 ## 📂 Repository Contents
 *   `/sql_queries/` - 9 production-grade analytical scripts using CTEs, rolling averages, and window functions (`LAG`, `RANK`, `NTILE`).
-*   `/notebooks/` - Python scripts for Pandas RFM segmentation and the Return Risk Decision Tree classifier.
+*   `/python/` - Python scripts for Pandas RFM segmentation and the Return Risk Decision Tree classifier.
 *   `/dashboard/` - 5-page Power BI dashboard file utilizing complex DAX (`CALCULATE`, `DIVIDE`, `FORMAT`), KPI cards, and custom matrix layouts.
